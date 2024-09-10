@@ -1,0 +1,11 @@
+unstructured
+tiktoken
+qdrant-client
+pypdf
+langchain
+langchain_qdrant
+langchain_cohere
+pandas
+numpy
+python-dotenv
+ipykernel
